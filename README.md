@@ -1,1 +1,2 @@
-# CB-Portofolio
+# Portofolio project - Cristina Birta 
+
